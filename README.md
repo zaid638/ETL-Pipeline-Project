@@ -47,6 +47,8 @@ DataEngineering_Assesment/
 
 MySQL:
 
+      CREATE DATABASE customer_us_db;
+
 PostgreSQL:
 
       CREATE DATABASE customer_global_db;
