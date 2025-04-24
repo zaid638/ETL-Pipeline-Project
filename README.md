@@ -39,15 +39,13 @@ DataEngineering_Assesment/
 - MySQL and PostgreSQL running locally
 - Required Python libraries:
 
-```bash
-pip install pandas openpyxl sqlalchemy mysql-connector-python psycopg2
+
+````pip install pandas openpyxl sqlalchemy mysql-connector-python psycopg2````
 
 
 ### Database Setup
 
 MySQL:
-
-      CREATE DATABASE customer_us_db;
 
 PostgreSQL:
 
@@ -64,4 +62,4 @@ Configuration:
 
 ▶️ Run the ETL Process
 
-python etl_script.py
+````etl_script.py````
