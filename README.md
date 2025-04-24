@@ -55,12 +55,12 @@ PostgreSQL:
 
 Configuration:
 
-# Edit the database connection URLs in etl_script.py
+Edit the database connection URLs in etl_script.py
 
       mysql+mysqlconnector://user:password@localhost/customer_us_db
       postgresql+psycopg2://user:password@localhost/customer_global_db
 
-# Replace user and password with your actual DB credentials.
+Replace ````user```` and ````password```` with your actual DB credentials.
 
 ▶️ Run the ETL Process
 
