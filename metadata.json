@@ -1,0 +1,75 @@
+{
+    "records_total": 9915,
+    "records_by_country": {
+        "india": 3393,
+        "usa": 3342,
+        "uk": 3180
+    },
+    "processed_at": "2025-04-24 10:15:34",
+    "column_info": {
+        "name": {
+            "dtype": "object",
+            "sample": [
+                "Curtis White",
+                "Justin Coleman",
+                "Alexander Wells"
+            ]
+        },
+        "gender": {
+            "dtype": "object",
+            "sample": [
+                "Other",
+                "Female",
+                "Male"
+            ]
+        },
+        "country": {
+            "dtype": "object",
+            "sample": [
+                "usa",
+                "india",
+                "uk"
+            ]
+        },
+        "department": {
+            "dtype": "object",
+            "sample": [
+                "Sales",
+                "HR",
+                "Finance"
+            ]
+        },
+        "designation": {
+            "dtype": "object",
+            "sample": [
+                "sales executive",
+                "hr coordinator",
+                "recruiter"
+            ]
+        },
+        "email": {
+            "dtype": "object",
+            "sample": [
+                "kathleenking@schmidt-graves.com",
+                "murrayrachel@hotmail.com",
+                "zunigacrystal@gmail.com"
+            ]
+        },
+        "signup_date": {
+            "dtype": "object",
+            "sample": [
+                "2024-02-29",
+                "2023-12-08",
+                "2022-08-20"
+            ]
+        },
+        "address": {
+            "dtype": "object",
+            "sample": [
+                "6327 melissa junction, lake allisonland, md 53273",
+                "unit 5232 box 7928, dpo ap 23572",
+                "2863 danielle mills suite 862, shellyfort, dc 97304"
+            ]
+        }
+    }
+}
