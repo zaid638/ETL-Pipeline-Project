@@ -4,6 +4,10 @@ This project implements a complete ETL (Extract, Transform, Load) pipeline using
 
 ---
 
+![ETL image](https://github.com/zaid638/Marketing-ETL-Pipeline/blob/main/Marketing_ETL_Diagram.png)
+
+---
+
 ## 🧩 Features
 
 - ✅ Extracts data from an Excel file
